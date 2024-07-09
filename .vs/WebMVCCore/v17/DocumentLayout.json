@@ -1,0 +1,85 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Study\\ASPnetCore\\WebMVCCore\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{05B3D2E2-8921-404E-83F8-C79F54E5C228}|WebMVCCore\\WebMVCCore.csproj|e:\\study\\aspnetcore\\webmvccore\\webmvccore\\areas\\admin\\views\\homeadmin\\themsanphammoi.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{05B3D2E2-8921-404E-83F8-C79F54E5C228}|WebMVCCore\\WebMVCCore.csproj|solutionrelative:webmvccore\\areas\\admin\\views\\homeadmin\\themsanphammoi.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05B3D2E2-8921-404E-83F8-C79F54E5C228}|WebMVCCore\\WebMVCCore.csproj|e:\\study\\aspnetcore\\webmvccore\\webmvccore\\areas\\admin\\controllers\\homeadmincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05B3D2E2-8921-404E-83F8-C79F54E5C228}|WebMVCCore\\WebMVCCore.csproj|solutionrelative:webmvccore\\areas\\admin\\controllers\\homeadmincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05B3D2E2-8921-404E-83F8-C79F54E5C228}|WebMVCCore\\WebMVCCore.csproj|e:\\study\\aspnetcore\\webmvccore\\webmvccore\\areas\\admin\\views\\homeadmin\\suasanpham.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{05B3D2E2-8921-404E-83F8-C79F54E5C228}|WebMVCCore\\WebMVCCore.csproj|solutionrelative:webmvccore\\areas\\admin\\views\\homeadmin\\suasanpham.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05B3D2E2-8921-404E-83F8-C79F54E5C228}|WebMVCCore\\WebMVCCore.csproj|e:\\study\\aspnetcore\\webmvccore\\webmvccore\\areas\\admin\\views\\homeadmin\\danhmucsanpham.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{05B3D2E2-8921-404E-83F8-C79F54E5C228}|WebMVCCore\\WebMVCCore.csproj|solutionrelative:webmvccore\\areas\\admin\\views\\homeadmin\\danhmucsanpham.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SuaSanPham.cshtml",
+              "DocumentMoniker": "E:\\Study\\ASPnetCore\\WebMVCCore\\WebMVCCore\\Areas\\Admin\\Views\\HomeAdmin\\SuaSanPham.cshtml",
+              "RelativeDocumentMoniker": "WebMVCCore\\Areas\\Admin\\Views\\HomeAdmin\\SuaSanPham.cshtml",
+              "ToolTip": "E:\\Study\\ASPnetCore\\WebMVCCore\\WebMVCCore\\Areas\\Admin\\Views\\HomeAdmin\\SuaSanPham.cshtml",
+              "RelativeToolTip": "WebMVCCore\\Areas\\Admin\\Views\\HomeAdmin\\SuaSanPham.cshtml",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAAA0AAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-05T07:17:14.322Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DanhMucSanPham.cshtml",
+              "DocumentMoniker": "E:\\Study\\ASPnetCore\\WebMVCCore\\WebMVCCore\\Areas\\Admin\\Views\\HomeAdmin\\DanhMucSanPham.cshtml",
+              "RelativeDocumentMoniker": "WebMVCCore\\Areas\\Admin\\Views\\HomeAdmin\\DanhMucSanPham.cshtml",
+              "ToolTip": "E:\\Study\\ASPnetCore\\WebMVCCore\\WebMVCCore\\Areas\\Admin\\Views\\HomeAdmin\\DanhMucSanPham.cshtml",
+              "RelativeToolTip": "WebMVCCore\\Areas\\Admin\\Views\\HomeAdmin\\DanhMucSanPham.cshtml",
+              "ViewState": "AQIAADwAAAAAAAAAAAAAAE0AAABCAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-05T06:49:59.995Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HomeAdminController.cs",
+              "DocumentMoniker": "E:\\Study\\ASPnetCore\\WebMVCCore\\WebMVCCore\\Areas\\Admin\\Controllers\\HomeAdminController.cs",
+              "RelativeDocumentMoniker": "WebMVCCore\\Areas\\Admin\\Controllers\\HomeAdminController.cs",
+              "ToolTip": "E:\\Study\\ASPnetCore\\WebMVCCore\\WebMVCCore\\Areas\\Admin\\Controllers\\HomeAdminController.cs",
+              "RelativeToolTip": "WebMVCCore\\Areas\\Admin\\Controllers\\HomeAdminController.cs",
+              "ViewState": "AQIAAFUAAAAAAAAAAAAAAGAAAABHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-05T06:41:38.799Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ThemSanPhamMoi.cshtml",
+              "DocumentMoniker": "E:\\Study\\ASPnetCore\\WebMVCCore\\WebMVCCore\\Areas\\Admin\\Views\\HomeAdmin\\ThemSanPhamMoi.cshtml",
+              "RelativeDocumentMoniker": "WebMVCCore\\Areas\\Admin\\Views\\HomeAdmin\\ThemSanPhamMoi.cshtml",
+              "ToolTip": "E:\\Study\\ASPnetCore\\WebMVCCore\\WebMVCCore\\Areas\\Admin\\Views\\HomeAdmin\\ThemSanPhamMoi.cshtml",
+              "RelativeToolTip": "WebMVCCore\\Areas\\Admin\\Views\\HomeAdmin\\ThemSanPhamMoi.cshtml",
+              "ViewState": "AQIAADAAAAAAAAAAAAAAAD8AAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-05T04:56:19.93Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
